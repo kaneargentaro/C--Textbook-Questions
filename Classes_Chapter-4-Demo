@@ -41,6 +41,20 @@ namespace ClassesDemo
         public int FuelCap; //fuel capacity in gallons
         public int Mpg; //fuel consumption in miles per gallon
 
+        //constructor
+        public Vehicle (int p, int f, int m)
+        {
+            Passengers = p;
+            FuelCap = f;
+            Mpg = m;
+        }
+
+        //deconstructor
+        ~ Vehicle()
+        {
+
+        }
+
         //display the range
         public int Range()
         {
@@ -58,33 +72,21 @@ namespace ClassesDemo
     {
         static void Main(string[] args)
         {
-            int range1;
-            int range2;
             double gallons;
             int dist = 252;
 
             //create an object called minivan, then assign values to fields in minivan
-            Vehicle minivan = new Vehicle(); 
-            minivan.Passengers = 7;
-            minivan.FuelCap = 16;
-            minivan.Mpg = 21;
+            Vehicle minivan = new Vehicle(7, 16, 21); 
 
             //create an object called minivan, then assign values to fields in minivan
-            Vehicle sportscar = new Vehicle();
-            sportscar.Passengers = 2;
-            sportscar.FuelCap = 14;
-            sportscar.Mpg = 12;
-
-            //compute the range assuming a full tank of gas
-            range1 = minivan.Range();
-            range2 = sportscar.Range();
+            Vehicle sportscar = new Vehicle(2, 14, 12);
 
             gallons = minivan.FuelNeeded(dist);
-            Console.WriteLine("Minivan can carry " + minivan.Passengers + " with a range of " + range1 + " miles");
+            Console.WriteLine("Minivan can carry " + minivan.Passengers + " with a range of " + minivan.Range() + " miles");
             Console.WriteLine("To go " + dist + " miles the minivan needs " + gallons + " gallons of fuel. \n");
             
             gallons = sportscar.FuelNeeded(dist);
-            Console.WriteLine("Sportscar can carry " + sportscar.Passengers + " with a range of " + range2 + " miles");
+            Console.WriteLine("Sportscar can carry " + sportscar.Passengers + " with a range of " + sportscar.Range() + " miles");
             Console.WriteLine("To go " + dist + " miles the sportscar needs " + gallons + " gallons of fuel. \n");
 
             //check if a number is even or not
