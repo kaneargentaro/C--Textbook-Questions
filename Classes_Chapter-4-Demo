@@ -15,9 +15,9 @@ namespace ClassesDemo
         public int Mpg; //fuel consumption in miles per gallon
 
         //display the range
-        public void Range()
+        public int Range()
         {
-            Console.WriteLine("Range is " + FuelCap * Mpg);
+            return FuelCap * Mpg;
 
         }
     }
@@ -41,13 +41,11 @@ namespace ClassesDemo
             minivan.Mpg = 12;
 
             //compute the range assuming a full tank of gas
-            range1 = minivan.FuelCap * minivan.Mpg;
-            range2 = sportscar.FuelCap * sportscar.Mpg;
+            range1 = minivan.Range();
+            range2 = sportscar.Range();
 
-            Console.WriteLine("Minivan can carry " + minivan.Passengers);
-            minivan.Range();
-            Console.WriteLine("Sportscar can carry " + sportscar.Passengers);
-            sportscar.Range();
+            Console.WriteLine("Minivan can carry " + minivan.Passengers + " with a range of " + range1 + " miles");
+            Console.WriteLine("Sportscar can carry " + sportscar.Passengers + " with a range of " + range2 + " miles"););
         }
     }
 }
