@@ -1,0 +1,38 @@
+using System;
+/*
+ * CHAPTER 4 LEARNING MATERIAL FROM  
+ * C# 3.0 : A BEGINNER'S GUIDE
+ * 
+ * TOPICS INCLUDE CLASSES, METHODS, OBJECTS
+ */
+
+namespace ClassesDemo
+{
+    class Vehicle
+    {
+        public int Passengers; //# of passengers
+        public int FuelCap; //fuel capacity in gallons
+        public int Mpg; //fuel consumption in miles per gallon
+
+
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int range;
+
+            //create an object called minivan, then assign values to fields in minivan
+            Vehicle minivan = new Vehicle();
+            minivan.Passengers = 7;
+            minivan.FuelCap = 16;
+            minivan.Mpg = 21;
+
+            //compute the range assuming a full tank of gas
+            range = minivan.FuelCap * minivan.Mpg;
+
+            Console.WriteLine("Minivan can carry " + minivan.Passengers + " passengers with a range of " + range + " miles");
+            
+        }
+    }
+}
