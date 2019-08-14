@@ -8,6 +8,15 @@ using System;
 
 namespace ClassesDemo
 {
+    class ChkNum
+    {
+        public bool IsEven(int x)
+        {
+            if ((x % 2) == 0) return true;
+            else return false;
+        }
+    }
+
     class Vehicle
     {
         public int Passengers; //# of passengers
@@ -45,7 +54,19 @@ namespace ClassesDemo
             range2 = sportscar.Range();
 
             Console.WriteLine("Minivan can carry " + minivan.Passengers + " with a range of " + range1 + " miles");
-            Console.WriteLine("Sportscar can carry " + sportscar.Passengers + " with a range of " + range2 + " miles"););
+            Console.WriteLine("Sportscar can carry " + sportscar.Passengers + " with a range of " + range2 + " miles");
+
+            //check if a number is even or not
+            ChkNum e = new ChkNum();
+
+            for (int i = 0; i <= 10; i++)
+            {
+                if (e.IsEven(i))
+                {
+                    Console.WriteLine(i + " is even.");
+                }
+            }
+         
         }
     }
 }
