@@ -14,13 +14,19 @@ namespace ClassesDemo
         public int FuelCap; //fuel capacity in gallons
         public int Mpg; //fuel consumption in miles per gallon
 
+        //display the range
+        public void Range()
+        {
+            Console.WriteLine("Range is " + FuelCap * Mpg);
 
+        }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            int range;
+            int range1;
+            int range2;
 
             //create an object called minivan, then assign values to fields in minivan
             Vehicle minivan = new Vehicle();
@@ -28,11 +34,20 @@ namespace ClassesDemo
             minivan.FuelCap = 16;
             minivan.Mpg = 21;
 
-            //compute the range assuming a full tank of gas
-            range = minivan.FuelCap * minivan.Mpg;
+            //create an object called minivan, then assign values to fields in minivan
+            Vehicle sportscar = new Vehicle();
+            minivan.Passengers = 2;
+            minivan.FuelCap = 14;
+            minivan.Mpg = 12;
 
-            Console.WriteLine("Minivan can carry " + minivan.Passengers + " passengers with a range of " + range + " miles");
-            
+            //compute the range assuming a full tank of gas
+            range1 = minivan.FuelCap * minivan.Mpg;
+            range2 = sportscar.FuelCap * sportscar.Mpg;
+
+            Console.WriteLine("Minivan can carry " + minivan.Passengers);
+            minivan.Range();
+            Console.WriteLine("Sportscar can carry " + sportscar.Passengers);
+            sportscar.Range();
         }
     }
 }
