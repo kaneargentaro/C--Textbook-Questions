@@ -47,6 +47,12 @@ namespace ClassesDemo
             return FuelCap * Mpg;
 
         }
+
+        //display the fuel needed for a certain number of miles
+        public double FuelNeeded(int miles)
+        {
+            return (double) miles / Mpg;
+        }
     }
     class Program
     {
@@ -54,25 +60,32 @@ namespace ClassesDemo
         {
             int range1;
             int range2;
+            double gallons;
+            int dist = 252;
 
             //create an object called minivan, then assign values to fields in minivan
-            Vehicle minivan = new Vehicle();
+            Vehicle minivan = new Vehicle(); 
             minivan.Passengers = 7;
             minivan.FuelCap = 16;
             minivan.Mpg = 21;
 
             //create an object called minivan, then assign values to fields in minivan
             Vehicle sportscar = new Vehicle();
-            minivan.Passengers = 2;
-            minivan.FuelCap = 14;
-            minivan.Mpg = 12;
+            sportscar.Passengers = 2;
+            sportscar.FuelCap = 14;
+            sportscar.Mpg = 12;
 
             //compute the range assuming a full tank of gas
             range1 = minivan.Range();
             range2 = sportscar.Range();
 
+            gallons = minivan.FuelNeeded(dist);
             Console.WriteLine("Minivan can carry " + minivan.Passengers + " with a range of " + range1 + " miles");
+            Console.WriteLine("To go " + dist + " miles the minivan needs " + gallons + " gallons of fuel. \n");
+            
+            gallons = sportscar.FuelNeeded(dist);
             Console.WriteLine("Sportscar can carry " + sportscar.Passengers + " with a range of " + range2 + " miles");
+            Console.WriteLine("To go " + dist + " miles the sportscar needs " + gallons + " gallons of fuel. \n");
 
             //check if a number is even or not
             ChkNum e = new ChkNum();
@@ -84,6 +97,7 @@ namespace ClassesDemo
                     Console.WriteLine(i + " is even.");
                 }
             }
+            Console.WriteLine();
 
             //check if a num is a factor
             if (e.IsFactor(2, 20))
