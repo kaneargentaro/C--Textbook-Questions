@@ -12,8 +12,26 @@ namespace ClassesDemo
     {
         public bool IsEven(int x)
         {
-            if ((x % 2) == 0) return true;
-            else return false;
+            if ((x % 2) == 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public bool IsFactor(int x, int y)
+        {
+            if ((y % x) == 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 
@@ -66,7 +84,17 @@ namespace ClassesDemo
                     Console.WriteLine(i + " is even.");
                 }
             }
-         
+
+            //check if a num is a factor
+            if (e.IsFactor(2, 20))
+            {
+                Console.WriteLine("2 is a factor");
+            }
+            if (e.IsFactor(2, 20))
+            {
+                Console.WriteLine("3 is a factor");
+            }
+
         }
     }
 }
