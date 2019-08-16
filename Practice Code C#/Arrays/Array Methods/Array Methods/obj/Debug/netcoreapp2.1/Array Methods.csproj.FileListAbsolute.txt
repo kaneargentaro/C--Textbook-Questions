@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\Array Methods\Array Methods\bin\Debug\netcoreapp2.1\Array Methods.deps.json
+E:\Visual Studio Projects\Array Methods\Array Methods\bin\Debug\netcoreapp2.1\Array Methods.runtimeconfig.json
+E:\Visual Studio Projects\Array Methods\Array Methods\bin\Debug\netcoreapp2.1\Array Methods.runtimeconfig.dev.json
+E:\Visual Studio Projects\Array Methods\Array Methods\bin\Debug\netcoreapp2.1\Array Methods.dll
+E:\Visual Studio Projects\Array Methods\Array Methods\bin\Debug\netcoreapp2.1\Array Methods.pdb
+E:\Visual Studio Projects\Array Methods\Array Methods\obj\Debug\netcoreapp2.1\Array Methods.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Array Methods\Array Methods\obj\Debug\netcoreapp2.1\Array Methods.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Array Methods\Array Methods\obj\Debug\netcoreapp2.1\Array Methods.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Array Methods\Array Methods\obj\Debug\netcoreapp2.1\Array Methods.AssemblyInfo.cs
+E:\Visual Studio Projects\Array Methods\Array Methods\obj\Debug\netcoreapp2.1\Array Methods.dll
+E:\Visual Studio Projects\Array Methods\Array Methods\obj\Debug\netcoreapp2.1\Array Methods.pdb

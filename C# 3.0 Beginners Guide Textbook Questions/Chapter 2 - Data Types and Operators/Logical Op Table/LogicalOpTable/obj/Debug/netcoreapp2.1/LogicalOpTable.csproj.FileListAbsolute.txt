@@ -1,0 +1,22 @@
+E:\Visual Studio Projects\LogicalOpTable\LogicalOpTable\obj\Debug\netcoreapp2.1\LogicalOpTable.csprojAssemblyReference.cache
+E:\Visual Studio Projects\LogicalOpTable\LogicalOpTable\obj\Debug\netcoreapp2.1\LogicalOpTable.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\LogicalOpTable\LogicalOpTable\obj\Debug\netcoreapp2.1\LogicalOpTable.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\LogicalOpTable\LogicalOpTable\obj\Debug\netcoreapp2.1\LogicalOpTable.AssemblyInfo.cs
+E:\Visual Studio Projects\LogicalOpTable\LogicalOpTable\bin\Debug\netcoreapp2.1\LogicalOpTable.deps.json
+E:\Visual Studio Projects\LogicalOpTable\LogicalOpTable\bin\Debug\netcoreapp2.1\LogicalOpTable.runtimeconfig.json
+E:\Visual Studio Projects\LogicalOpTable\LogicalOpTable\bin\Debug\netcoreapp2.1\LogicalOpTable.runtimeconfig.dev.json
+E:\Visual Studio Projects\LogicalOpTable\LogicalOpTable\bin\Debug\netcoreapp2.1\LogicalOpTable.dll
+E:\Visual Studio Projects\LogicalOpTable\LogicalOpTable\bin\Debug\netcoreapp2.1\LogicalOpTable.pdb
+E:\Visual Studio Projects\LogicalOpTable\LogicalOpTable\obj\Debug\netcoreapp2.1\LogicalOpTable.dll
+E:\Visual Studio Projects\LogicalOpTable\LogicalOpTable\obj\Debug\netcoreapp2.1\LogicalOpTable.pdb
+E:\Visual Studio Projects\C# 3.0 Beginners Guide Textbook Questions\Chapter 2 - Data Types and Operators\Logical Op Table\LogicalOpTable\bin\Debug\netcoreapp2.1\LogicalOpTable.deps.json
+E:\Visual Studio Projects\C# 3.0 Beginners Guide Textbook Questions\Chapter 2 - Data Types and Operators\Logical Op Table\LogicalOpTable\bin\Debug\netcoreapp2.1\LogicalOpTable.runtimeconfig.json
+E:\Visual Studio Projects\C# 3.0 Beginners Guide Textbook Questions\Chapter 2 - Data Types and Operators\Logical Op Table\LogicalOpTable\bin\Debug\netcoreapp2.1\LogicalOpTable.runtimeconfig.dev.json
+E:\Visual Studio Projects\C# 3.0 Beginners Guide Textbook Questions\Chapter 2 - Data Types and Operators\Logical Op Table\LogicalOpTable\bin\Debug\netcoreapp2.1\LogicalOpTable.dll
+E:\Visual Studio Projects\C# 3.0 Beginners Guide Textbook Questions\Chapter 2 - Data Types and Operators\Logical Op Table\LogicalOpTable\bin\Debug\netcoreapp2.1\LogicalOpTable.pdb
+E:\Visual Studio Projects\C# 3.0 Beginners Guide Textbook Questions\Chapter 2 - Data Types and Operators\Logical Op Table\LogicalOpTable\obj\Debug\netcoreapp2.1\LogicalOpTable.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# 3.0 Beginners Guide Textbook Questions\Chapter 2 - Data Types and Operators\Logical Op Table\LogicalOpTable\obj\Debug\netcoreapp2.1\LogicalOpTable.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# 3.0 Beginners Guide Textbook Questions\Chapter 2 - Data Types and Operators\Logical Op Table\LogicalOpTable\obj\Debug\netcoreapp2.1\LogicalOpTable.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\C# 3.0 Beginners Guide Textbook Questions\Chapter 2 - Data Types and Operators\Logical Op Table\LogicalOpTable\obj\Debug\netcoreapp2.1\LogicalOpTable.AssemblyInfo.cs
+E:\Visual Studio Projects\C# 3.0 Beginners Guide Textbook Questions\Chapter 2 - Data Types and Operators\Logical Op Table\LogicalOpTable\obj\Debug\netcoreapp2.1\LogicalOpTable.dll
+E:\Visual Studio Projects\C# 3.0 Beginners Guide Textbook Questions\Chapter 2 - Data Types and Operators\Logical Op Table\LogicalOpTable\obj\Debug\netcoreapp2.1\LogicalOpTable.pdb

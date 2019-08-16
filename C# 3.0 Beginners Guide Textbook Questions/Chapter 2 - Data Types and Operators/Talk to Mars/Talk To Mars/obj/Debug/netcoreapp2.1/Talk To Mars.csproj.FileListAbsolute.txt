@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\Mars\Talk To Mars\bin\Debug\netcoreapp2.1\Talk To Mars.deps.json
+E:\Visual Studio Projects\Mars\Talk To Mars\bin\Debug\netcoreapp2.1\Talk To Mars.runtimeconfig.json
+E:\Visual Studio Projects\Mars\Talk To Mars\bin\Debug\netcoreapp2.1\Talk To Mars.runtimeconfig.dev.json
+E:\Visual Studio Projects\Mars\Talk To Mars\bin\Debug\netcoreapp2.1\Talk To Mars.dll
+E:\Visual Studio Projects\Mars\Talk To Mars\bin\Debug\netcoreapp2.1\Talk To Mars.pdb
+E:\Visual Studio Projects\Mars\Talk To Mars\obj\Debug\netcoreapp2.1\Talk To Mars.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Mars\Talk To Mars\obj\Debug\netcoreapp2.1\Talk To Mars.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Mars\Talk To Mars\obj\Debug\netcoreapp2.1\Talk To Mars.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Mars\Talk To Mars\obj\Debug\netcoreapp2.1\Talk To Mars.AssemblyInfo.cs
+E:\Visual Studio Projects\Mars\Talk To Mars\obj\Debug\netcoreapp2.1\Talk To Mars.dll
+E:\Visual Studio Projects\Mars\Talk To Mars\obj\Debug\netcoreapp2.1\Talk To Mars.pdb

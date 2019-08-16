@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\Manipulate_Strings\Copy String\bin\Debug\netcoreapp2.1\Copy String.deps.json
+E:\Visual Studio Projects\Manipulate_Strings\Copy String\bin\Debug\netcoreapp2.1\Copy String.runtimeconfig.json
+E:\Visual Studio Projects\Manipulate_Strings\Copy String\bin\Debug\netcoreapp2.1\Copy String.runtimeconfig.dev.json
+E:\Visual Studio Projects\Manipulate_Strings\Copy String\bin\Debug\netcoreapp2.1\Copy String.dll
+E:\Visual Studio Projects\Manipulate_Strings\Copy String\bin\Debug\netcoreapp2.1\Copy String.pdb
+E:\Visual Studio Projects\Manipulate_Strings\Copy String\obj\Debug\netcoreapp2.1\Copy String.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Manipulate_Strings\Copy String\obj\Debug\netcoreapp2.1\Copy String.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Manipulate_Strings\Copy String\obj\Debug\netcoreapp2.1\Copy String.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Manipulate_Strings\Copy String\obj\Debug\netcoreapp2.1\Copy String.AssemblyInfo.cs
+E:\Visual Studio Projects\Manipulate_Strings\Copy String\obj\Debug\netcoreapp2.1\Copy String.dll
+E:\Visual Studio Projects\Manipulate_Strings\Copy String\obj\Debug\netcoreapp2.1\Copy String.pdb
