@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\HelpClassDemo\HelpClassDemo\obj\Debug\netcoreapp2.1\HelpClassDemo.csprojAssemblyReference.cache
+E:\Visual Studio Projects\HelpClassDemo\HelpClassDemo\obj\Debug\netcoreapp2.1\HelpClassDemo.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\HelpClassDemo\HelpClassDemo\obj\Debug\netcoreapp2.1\HelpClassDemo.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\HelpClassDemo\HelpClassDemo\obj\Debug\netcoreapp2.1\HelpClassDemo.AssemblyInfo.cs
+E:\Visual Studio Projects\HelpClassDemo\HelpClassDemo\bin\Debug\netcoreapp2.1\HelpClassDemo.deps.json
+E:\Visual Studio Projects\HelpClassDemo\HelpClassDemo\bin\Debug\netcoreapp2.1\HelpClassDemo.runtimeconfig.json
+E:\Visual Studio Projects\HelpClassDemo\HelpClassDemo\bin\Debug\netcoreapp2.1\HelpClassDemo.runtimeconfig.dev.json
+E:\Visual Studio Projects\HelpClassDemo\HelpClassDemo\bin\Debug\netcoreapp2.1\HelpClassDemo.dll
+E:\Visual Studio Projects\HelpClassDemo\HelpClassDemo\bin\Debug\netcoreapp2.1\HelpClassDemo.pdb
+E:\Visual Studio Projects\HelpClassDemo\HelpClassDemo\obj\Debug\netcoreapp2.1\HelpClassDemo.dll
+E:\Visual Studio Projects\HelpClassDemo\HelpClassDemo\obj\Debug\netcoreapp2.1\HelpClassDemo.pdb
