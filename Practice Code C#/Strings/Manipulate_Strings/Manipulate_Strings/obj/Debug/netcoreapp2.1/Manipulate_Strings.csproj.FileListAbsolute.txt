@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\Manipulate_Strings\Manipulate_Strings\bin\Debug\netcoreapp2.1\Manipulate_Strings.deps.json
+E:\Visual Studio Projects\Manipulate_Strings\Manipulate_Strings\bin\Debug\netcoreapp2.1\Manipulate_Strings.runtimeconfig.json
+E:\Visual Studio Projects\Manipulate_Strings\Manipulate_Strings\bin\Debug\netcoreapp2.1\Manipulate_Strings.runtimeconfig.dev.json
+E:\Visual Studio Projects\Manipulate_Strings\Manipulate_Strings\bin\Debug\netcoreapp2.1\Manipulate_Strings.dll
+E:\Visual Studio Projects\Manipulate_Strings\Manipulate_Strings\bin\Debug\netcoreapp2.1\Manipulate_Strings.pdb
+E:\Visual Studio Projects\Manipulate_Strings\Manipulate_Strings\obj\Debug\netcoreapp2.1\Manipulate_Strings.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Manipulate_Strings\Manipulate_Strings\obj\Debug\netcoreapp2.1\Manipulate_Strings.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Manipulate_Strings\Manipulate_Strings\obj\Debug\netcoreapp2.1\Manipulate_Strings.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Manipulate_Strings\Manipulate_Strings\obj\Debug\netcoreapp2.1\Manipulate_Strings.AssemblyInfo.cs
+E:\Visual Studio Projects\Manipulate_Strings\Manipulate_Strings\obj\Debug\netcoreapp2.1\Manipulate_Strings.dll
+E:\Visual Studio Projects\Manipulate_Strings\Manipulate_Strings\obj\Debug\netcoreapp2.1\Manipulate_Strings.pdb
