@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\Practice Code C#\Classes\Order_Books\Order_Books\bin\Debug\netcoreapp2.1\Order_Books.deps.json
+E:\Visual Studio Projects\Practice Code C#\Classes\Order_Books\Order_Books\bin\Debug\netcoreapp2.1\Order_Books.runtimeconfig.json
+E:\Visual Studio Projects\Practice Code C#\Classes\Order_Books\Order_Books\bin\Debug\netcoreapp2.1\Order_Books.runtimeconfig.dev.json
+E:\Visual Studio Projects\Practice Code C#\Classes\Order_Books\Order_Books\bin\Debug\netcoreapp2.1\Order_Books.dll
+E:\Visual Studio Projects\Practice Code C#\Classes\Order_Books\Order_Books\bin\Debug\netcoreapp2.1\Order_Books.pdb
+E:\Visual Studio Projects\Practice Code C#\Classes\Order_Books\Order_Books\obj\Debug\netcoreapp2.1\Order_Books.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Practice Code C#\Classes\Order_Books\Order_Books\obj\Debug\netcoreapp2.1\Order_Books.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Practice Code C#\Classes\Order_Books\Order_Books\obj\Debug\netcoreapp2.1\Order_Books.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Practice Code C#\Classes\Order_Books\Order_Books\obj\Debug\netcoreapp2.1\Order_Books.AssemblyInfo.cs
+E:\Visual Studio Projects\Practice Code C#\Classes\Order_Books\Order_Books\obj\Debug\netcoreapp2.1\Order_Books.dll
+E:\Visual Studio Projects\Practice Code C#\Classes\Order_Books\Order_Books\obj\Debug\netcoreapp2.1\Order_Books.pdb
