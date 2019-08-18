@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\Practice Code C#\Input & Output\Book_Input-Output\Book_Input-Output\bin\Debug\netcoreapp2.1\Book_Input-Output.deps.json
+E:\Visual Studio Projects\Practice Code C#\Input & Output\Book_Input-Output\Book_Input-Output\bin\Debug\netcoreapp2.1\Book_Input-Output.runtimeconfig.json
+E:\Visual Studio Projects\Practice Code C#\Input & Output\Book_Input-Output\Book_Input-Output\bin\Debug\netcoreapp2.1\Book_Input-Output.runtimeconfig.dev.json
+E:\Visual Studio Projects\Practice Code C#\Input & Output\Book_Input-Output\Book_Input-Output\bin\Debug\netcoreapp2.1\Book_Input-Output.dll
+E:\Visual Studio Projects\Practice Code C#\Input & Output\Book_Input-Output\Book_Input-Output\bin\Debug\netcoreapp2.1\Book_Input-Output.pdb
+E:\Visual Studio Projects\Practice Code C#\Input & Output\Book_Input-Output\Book_Input-Output\obj\Debug\netcoreapp2.1\Book_Input-Output.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Practice Code C#\Input & Output\Book_Input-Output\Book_Input-Output\obj\Debug\netcoreapp2.1\Book_Input-Output.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Practice Code C#\Input & Output\Book_Input-Output\Book_Input-Output\obj\Debug\netcoreapp2.1\Book_Input-Output.AssemblyInfo.cs
+E:\Visual Studio Projects\Practice Code C#\Input & Output\Book_Input-Output\Book_Input-Output\obj\Debug\netcoreapp2.1\Book_Input-Output.dll
+E:\Visual Studio Projects\Practice Code C#\Input & Output\Book_Input-Output\Book_Input-Output\obj\Debug\netcoreapp2.1\Book_Input-Output.pdb
